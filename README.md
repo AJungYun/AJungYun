@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm AJung Yun👋</h1>
+<h1 align="center">Hi, I'm 윤아정👋</h1>
 
 
 - 🌱 I am a student of information and communication engineering.
