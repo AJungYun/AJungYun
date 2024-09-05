@@ -1,14 +1,12 @@
-<h1 align="center">Hi, I'm 윤아정👋</h1>
 
-
-- 🌱 I am a student of information and communication engineering.
-
-- 👨‍💻 I'm still studying various fields.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dkwjd_yun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/dkwjd_yun" target="blank"><img instagram="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+<a href="https://blog.naver.com/yahj0315" target="blank"><img blog="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+
+
 
 
 <h3 align="left"> I'm currently studying these languages..:</h3>
