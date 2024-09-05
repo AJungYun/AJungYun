@@ -4,8 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dkwjd_yun" target="blank"><img instagram="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
-<a href="https://blog.naver.com/yahj0315" target="blank"><img blog="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
-
+<a href="https://blog.naver.com/yahj0315" target="blank"><img blog="center" src="https://github.com/user-attachments/assets/62c3a7ad-e51d-4356-a6dc-f74cef703710" alt="your-blog" height="30" width="40" /></a>
 
 
 
